@@ -1,0 +1,49 @@
+_repo: The-War-and-Democracy_10668
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wilson, John Dover
+    alias: Wilson, J. D. (John Dover)
+    birthdate: 1881
+    deathdate: 1969
+    gutenberg_agent_id: '25385'
+    url: http://www.gutenberg.org/2009/agents/25385
+    wikipedia: http://en.wikipedia.org/wiki/John_Dover_Wilson
+  - agent_name: Greenwood, Arthur
+    birthdate: 1880
+    deathdate: 1954
+    gutenberg_agent_id: '40472'
+    url: http://www.gutenberg.org/2009/agents/40472
+  - agent_name: Seton-Watson, R. W. (Robert William)
+    aliases:
+    - Viator, Scotus
+    - Seton-Watson, Robert William
+    birthdate: &id001 1879
+    deathdate: 1951
+    gutenberg_agent_id: '40517'
+    url: http://www.gutenberg.org/2009/agents/40517
+  - agent_name: Zimmern, Alfred
+    aliases:
+    - Zimmern, A. E. (Alfred Eckhard)
+    - Chin-mou
+    birthdate: *id001
+    deathdate: 1957
+    gutenberg_agent_id: '38730'
+    url: http://www.gutenberg.org/2009/agents/38730
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Nationalism -- Europe'
+- !lcsh 'Europe -- Politics and government -- 1871-1918'
+- !lcsh 'World War, 1914-1918'
+- GITenberg
+title: The War and Democracy
+url: http://www.gutenberg.org/ebooks/10668
