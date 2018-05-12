@@ -1,5 +1,8 @@
 _repo: The-War-and-Democracy_10668
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Wilson, John Dover
@@ -18,7 +21,7 @@ creator:
     aliases:
     - Viator, Scotus
     - Seton-Watson, Robert William
-    birthdate: &id001 1879
+    birthdate: 1879
     deathdate: 1951
     gutenberg_agent_id: '40517'
     url: http://www.gutenberg.org/2009/agents/40517
@@ -26,11 +29,13 @@ creator:
     aliases:
     - Zimmern, A. E. (Alfred Eckhard)
     - Chin-mou
-    birthdate: *id001
+    birthdate: 1879
     deathdate: 1957
     gutenberg_agent_id: '38730'
     url: http://www.gutenberg.org/2009/agents/38730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10668#The-War-and-Democracy
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
